@@ -1,13 +1,17 @@
-### Olá, eu sou a Cecília
+### Hello, I'm Cecília.
 
-- 💡 Estudante de Data Science.
-- 👩‍💻 Cofundadora da página @devflow.br no Instagram.
+- 💡 Data Science student.
+- 👩‍💻 Co-founder @devflow.br on Instagram.
 
-### Hard skills 
+### Skills 
 
 - 💻 Python
-- 🎲 Pandas
-- 📈 Matplotlib
-- 📊 Excel
+- 🎲 Data analysis
+- 📈 Data visualization
+- 📊 Microsoft Excel
 - 🧮 Google data studio
 - 🗂 Git/Github 
+
+### Social media
+
+- LinkedIn
