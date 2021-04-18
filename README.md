@@ -1,7 +1,7 @@
-### 👋 Hi there, I'm Cecília 👩‍💻
+### 👋 Olá, eu sou a Cecília 👩‍💻
 
 
-- 🌱 I’m learning Python ..
+- 🌱 Estou em constante aprendizado
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
