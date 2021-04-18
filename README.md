@@ -1,10 +1,11 @@
 ### 👋 Olá, eu sou a Cecília 👩‍💻
 
+- 🌱 Sou estudante de Análise e visualização de dados.
+- 👩‍💻 Cofundadora @devflow.br
 
-- 🌱 Estou em constante aprendizado
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Stacks
+
+- 💻 Python
+- 📊 Pandas
+- 📈 Matplotlib
+- 📉 Excel
