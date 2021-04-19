@@ -12,7 +12,16 @@
 - 🧮 Google data studio
 - 🗂 Git/Github 
 
-### Social media
+
+  </a>
+  <a href="https://github.com/cecellhax">
+    <img
+      align="left"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=cecellhax&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cecília_Silva_de_Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília)](https://www.linkedin.com/in/cecília)
 [![Medium Badge](https://img.shields.io/badge/-ceciliasilvads-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://ceciliasilvads.medium.com/)](https://ceciliasilvads.medium.com/)
