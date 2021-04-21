@@ -20,7 +20,7 @@
   <a href="https://github.com/cecellhax">
     <img
       align="left"
-      height="165"
+      height="159"
       src="https://github-readme-stats.vercel.app/api?username=cecellhax&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
