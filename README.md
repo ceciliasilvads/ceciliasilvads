@@ -16,14 +16,11 @@
 [![Medium Badge](https://img.shields.io/badge/-ceciliasilvads-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://ceciliasilvads.medium.com/)](https://ceciliasilvads.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-souza.cecilia@acad.ifma.edu.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souza.cecilia@acad.ifma.edu.br)](mailto:souza.cecilia@acad.ifma.edu.br)
 
-  </a>
-  <a href="https://github.com/cecellhax">
-    <img
-      align="left"
-      height="159"
-      src="https://github-readme-stats.vercel.app/api?username=cecellhax&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
+<br>
 
+<p align = "left"">
+
+  <img src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dracula">
+</p>
 
 
