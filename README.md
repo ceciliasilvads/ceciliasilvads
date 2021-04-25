@@ -1,3 +1,8 @@
+<p align = "left"">
+
+  <img src = "https://avatars.githubusercontent.com/u/67514151?s=60&v=4">
+</p>
+
 ### Hello, I'm Cecília.
 
 - 💡 Data Science student.
