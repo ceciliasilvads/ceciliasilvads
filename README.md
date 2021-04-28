@@ -1,8 +1,3 @@
-<p align = "left"">
-
-  <img src = "https://avatars.githubusercontent.com/u/67514151?s=60&v=4">
-</p>
-
 ### Hello, I'm Cecília.
 
 - 💡 Data Science student.
@@ -23,8 +18,5 @@
 
 
 <p align = "left"">
-
   <img src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dracula">
 </p>
-
-
