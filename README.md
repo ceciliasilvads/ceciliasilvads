@@ -21,7 +21,6 @@
 [![Medium Badge](https://img.shields.io/badge/-ceciliasilvads-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://ceciliasilvads.medium.com/)](https://ceciliasilvads.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-souza.cecilia@acad.ifma.edu.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souza.cecilia@acad.ifma.edu.br)](mailto:souza.cecilia@acad.ifma.edu.br)
 
-<br>
 
 <p align = "left"">
 
