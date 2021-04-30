@@ -18,5 +18,5 @@
 
 
 <p align = "left"">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dark">
 </p>
