@@ -2,7 +2,7 @@
 
 - 💡 Data driven.
 - 👩‍💻 Co-founder [devflow.br](https://instagram.com/devflow.br?igshid=kyiunxiu1s3q) on Instagram.
-
+- 📌 [Portifólio de projetos](https://github.com/cecellhax/portifolio-ceciliasilvads/blob/main/README.md)
 ### Skills 
 
 - 💻 Python
