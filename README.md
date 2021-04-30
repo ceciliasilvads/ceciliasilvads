@@ -1,6 +1,6 @@
 ### Hello, I'm Cecília.
 
-- 💡 Data Science student.
+- 💡 Data driven.
 - 👩‍💻 Co-founder [devflow.br](https://instagram.com/devflow.br?igshid=kyiunxiu1s3q) on Instagram.
 
 ### Skills 
