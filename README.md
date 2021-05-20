@@ -8,6 +8,7 @@
 - 💻 Python
 - 🎲 Data analysis
 - 📈 Data visualization
+- 🤖 Machine Learning
 - 📊 Microsoft Excel
 - 🧮 Google data studio
 - 🗂 Git/Github 
