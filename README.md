@@ -9,9 +9,6 @@
 - 🎲 Data analysis
 - 📈 Data visualization
 - 🤖 Machine Learning
-- 📊 Microsoft Excel
-- 🧮 Google data studio
-- 🗂 Git/Github 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cecília_Silva_de_Souza-0099CC?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília)](https://www.linkedin.com/in/cecília)
 [![Medium Badge](https://img.shields.io/badge/-ceciliasilvads-000000?style=flat&logo=Medium&logoColor=white&link=https://ceciliasilvads.medium.com/)](https://ceciliasilvads.medium.com/)
