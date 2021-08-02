@@ -9,6 +9,8 @@
 - 🔍 Data Science
 - 📊 Data analysis
 - 📈 Data visualization
+- 🤖 Machine Learning
+- 📐 Statistics
 
 E muito mais...
 
