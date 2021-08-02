@@ -14,5 +14,6 @@
 [![Medium Badge](https://img.shields.io/badge/-ceciliasilvads-000000?style=flat&logo=Medium&logoColor=white&link=https://ceciliasilvads.medium.com/)](https://ceciliasilvads.medium.com/)
 
 <div align = "left"">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dark">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dark">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cecellhax&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
 </div>
