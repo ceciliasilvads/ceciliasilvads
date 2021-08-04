@@ -20,7 +20,7 @@ E muito mais...
   - [**Dados das regiões brasileiras - Aplicação Web com Streamlit**](https://github.com/cecellhax/webapp_regioes)
   - [**Distribuição da população do Brasil**](https://github.com/cecellhax/populacao-brasileira)
   - [**Dataset Titanic**](https://github.com/cecellhax/titanic-eda)
-- **Machine Learn**
+- **Machine Learning**
   - [**Modelo de classificação das chances de ataque cardíaco**](https://github.com/cecellhax/previsao_ataque_cardiaco_kaggle)
 
 
