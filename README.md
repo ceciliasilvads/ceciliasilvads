@@ -22,7 +22,8 @@ E muito mais...
   - [**Dataset Titanic**](https://github.com/cecellhax/titanic-eda)
 - **Machine Learning**
   - [**Modelo de classificação das chances de ataque cardíaco**](https://github.com/cecellhax/previsao_ataque_cardiaco_kaggle)
-
+- **Dashboards**
+  - [**Video Games Sales by 2016**](https://github.com/cecellhax/video-games-sales-2016)
 
 ### Minhas redes
 
