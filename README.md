@@ -17,9 +17,10 @@ E muito mais...
 
 - **Análise e exploração de dados**
   - [**Análise de dados da covid-19**](https://github.com/cecellhax/analises_covid19)
-  - [**Dados das regiões brasileiras - Aplicação Web com Streamlit**](https://github.com/cecellhax/webapp_regioes)
-  - [**Distribuição da população do Brasil**](https://github.com/cecellhax/populacao-brasileira)
-  - [**Dataset Titanic**](https://github.com/cecellhax/titanic-eda)
+  - [**As macroregiões brasileiras - Aplicação Web com Streamlit**](https://github.com/cecellhax/webapp_regioes)
+  - [**Distribuição da população brasileira**](https://github.com/cecellhax/populacao-brasileira)
+  - [**Análise do dataset Titanic**](https://github.com/cecellhax/titanic-eda)
+  - [**Análise de dados de seguros**](https://github.com/cecellhax/seguro-de-vida)
 - **Machine Learning**
   - [**Modelo de classificação das chances de ataque cardíaco**](https://github.com/cecellhax/previsao_ataque_cardiaco_kaggle)
 - **Dashboards**
