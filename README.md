@@ -13,19 +13,6 @@
 
 E muito mais...
 
-### Projetos
-
-- **Análise e exploração de dados**
-  - [**Análise de dados da covid-19**](https://github.com/cecellhax/analises_covid19)
-  - [**As macroregiões brasileiras - Aplicação Web com Streamlit**](https://github.com/cecellhax/webapp_regioes)
-  - [**Distribuição da população brasileira**](https://github.com/cecellhax/populacao-brasileira)
-  - [**Análise do dataset Titanic**](https://github.com/cecellhax/titanic-eda)
-  - [**Análise de dados de seguros**](https://github.com/cecellhax/seguro-de-vida)
-- **Machine Learning**
-  - [**Modelo de classificação das chances de ataque cardíaco**](https://github.com/cecellhax/previsao_ataque_cardiaco_kaggle)
-- **Dashboards**
-  - [**Video Games Sales by 2016**](https://github.com/cecellhax/video-games-sales-2016)
-
 ### Minhas redes
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cecília_Silva_de_Souza-63C095?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília)](https://www.linkedin.com/in/cecília)
