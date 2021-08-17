@@ -3,16 +3,6 @@
 
 💡 Data driven
 
-### Estudando:
-
-- 🔍 Data Science
-- 📊 Data analysis
-- 📈 Data visualization
-- 🤖 Machine Learning
-- 📐 Statistics
-
-E muito mais...
-
 ### Minhas redes
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cecília_Silva_de_Souza-63C095?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília)](https://www.linkedin.com/in/cecília)
