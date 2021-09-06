@@ -10,6 +10,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-souza.cecilia@acad.ifma.edu.br-63C095?style=flat&logo=Gmail&logoColor=white&link=mailto:souza.cecilia@acad.ifma.edu.br)](mailto:souza.cecilia@acad.ifma.edu.br)
 
 <div align = "left"">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dark">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cecellhax&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=dark">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
 </div>
