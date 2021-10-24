@@ -2,6 +2,7 @@
 # 👋 Bem vindo(a)!
 
 💡 Pessoa Data Driven!
+
 💼 Aprendiz de Ciência de Dados.
 
 ## Minhas redes
