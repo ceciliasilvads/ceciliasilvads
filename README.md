@@ -2,11 +2,7 @@
 # 👋 Bem vindo(a)!
 
 💡 Pessoa Data Driven!
-
-👩‍💻 Tenho 18 anos e sou de Açailândia-MA. Sou apaixonada por tecnologia! Poder contribuir com as transformações tecnológicas é muito empolgante.
-
-🤩 Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
-
+💼 Aprendiz de Ciência de Dados.
 
 ## Minhas redes
 
