@@ -6,7 +6,6 @@
 ## Minhas redes
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cecília_Silva_de_Souza-8359a7?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília)](https://www.linkedin.com/in/cecília)
-[![Medium Badge](https://img.shields.io/badge/-ceciliasilvads-8359a7?style=flat&logo=Medium&logoColor=white&link=https://ceciliasilvads.medium.com/)](https://ceciliasilvads.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-souza.cecilia@acad.ifma.edu.br-8359a7?style=flat&logo=Gmail&logoColor=white&link=mailto:souza.cecilia@acad.ifma.edu.br)](mailto:souza.cecilia@acad.ifma.edu.br)
 
 ## Status do Github
