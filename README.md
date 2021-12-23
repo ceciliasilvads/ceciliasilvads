@@ -7,11 +7,12 @@
 **Análise e Vizualização de Dados**
 <div>
   <img align="center" alt="Python" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Jupyter" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="PowerBI" height="60" width="40" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Power%20Bi/Power%20Bi.svg">
-  <img align="center" alt="DataStudio" height="60" width="40" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Data%20Studio/Data%20Studio.svg">  
-  <img align="center" alt="Excel" height="60" width="40" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Excel/Excel.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Power%20Bi/Power%20Bi.svg">
+  <img align="center" alt="DataStudio" height="40" width="50" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Data%20Studio/Data%20Studio.svg">  
+  <img align="center" alt="Excel" height="40" width="50" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Excel/Excel.svg">
+  <img align="center" alt="Numpy" height="40" width="50" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Numpy/Numpy.svg">  
 </div>
 
 **Prototipagem e Design**
