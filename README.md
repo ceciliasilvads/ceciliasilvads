@@ -36,3 +36,9 @@
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=dark">
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
+<a href="https://github.com/ceciliasilvads/analises_covid19">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ceciliasilvads&repo=analises_covid19&theme=dark" />
+</a>
+               
