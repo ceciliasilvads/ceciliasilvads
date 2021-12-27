@@ -32,7 +32,7 @@
 </div>
 
 ## Status do Github
-<div align = "left">
+<div>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=dark">
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
 </div>        
