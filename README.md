@@ -15,31 +15,26 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+![Data Studio](https://img.shields.io/badge/-Data%20Studio-black?style=flat-square&logo=google)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
 
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![JS](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 
 
 <img align="center" alt="DataStudio" height="30" width="50" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Data%20Studio/Data%20Studio.svg">  
-<img align="center" alt="Excel" height="30" width="50" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Excel/Excel.svg">
 
 **Prototipagem e Design**
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=Canva)
 
-**Desenvolvimento**
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Git/Git.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/VS%20Code/VS%20Code.svg">
-</div>
 
 ## Status do Github
 <div>
