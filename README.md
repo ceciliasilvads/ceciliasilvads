@@ -6,22 +6,30 @@
 
 ## Skils
 
-**Análise e Vizualização de Dados**
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="PowerBI" height="30" width="50" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Power%20Bi/Power%20Bi.svg">
-  <img align="center" alt="DataStudio" height="30" width="50" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Data%20Studio/Data%20Studio.svg">  
-  <img align="center" alt="Excel" height="30" width="50" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Excel/Excel.svg">
-  <img align="center" alt="Numpy" height="30" width="50" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Numpy/Numpy.svg">  
-</div>
+**Ciência de Dados**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+
+<img align="center" alt="DataStudio" height="30" width="50" src="https://github.com/ceciliasilvads/icons/blob/main/Icons/Data%20Studio/Data%20Studio.svg">  
+<img align="center" alt="Excel" height="30" width="50" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Excel/Excel.svg">
 
 **Prototipagem e Design**
-<div>
-  <img align="center" alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/ceciliasilvads/thec-icons/blob/main/Icons/Figma/Figma.svg">
-</div>
+
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=Canva)
 
 **Desenvolvimento**
 <div>
