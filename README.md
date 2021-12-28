@@ -14,11 +14,11 @@
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?logoColor=violet&style=flat-square&logo=Plotly)
+![sheets](https://img.shields.io/badge/-Sheets-black?logoColor=green&style=flat-square&logo=GoogleSheets)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
 ![Data Studio](https://img.shields.io/badge/-Data%20Studio-black?style=flat-square&logo=google)
-![Excel](https://img.shields.io/badge/-Excel-black?logoColor=green&style=flat-square&logo=microsoft-excel)
 
-**Ferramentas**
+**Desenvolvimento**
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
