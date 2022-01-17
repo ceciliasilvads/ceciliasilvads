@@ -2,7 +2,6 @@
 
 - **⭐ Sou Cecília Silva, tenho 19 anos.**
 - **🚀 Estudante de Ciência de dados e Computação.**
-- **💼 Aprendiz de Ciência de Dados na [Ai Consult](https://www.linkedin.com/company/ai-consult/).</h2>**
 
 ## Skils
 
