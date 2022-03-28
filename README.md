@@ -27,6 +27,7 @@
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?logoColor=blue&style=flat-square&logo=visual-studio-code)
 ![JS](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![REACT](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=blue&style=flat-square&logo=css3)
 
