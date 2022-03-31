@@ -7,7 +7,7 @@
 
 **⭐ Sou Cecília Silva, tenho 19 anos.**
 
-**🚀 Estudante de Ciência de dados e Computação.**
+**🚀 Estudante das Ciência dos Dados e Computação.**
 
 ## Skils
 
