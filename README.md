@@ -41,3 +41,10 @@
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=dark">
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## Portifólio
+
+<a href="https://github.com/ceciliasilvads/portifolio">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ceciliasilvads&repo=portifolio&theme=dark" />
+</a>
+ 
