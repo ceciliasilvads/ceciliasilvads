@@ -37,12 +37,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=Canva)
 
-## Status do Github
-<div align="start">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=dark">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## Portifólio
 
 <a href="https://github.com/ceciliasilvads/portifolio">
