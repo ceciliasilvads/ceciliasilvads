@@ -6,7 +6,9 @@
 
 ## Bem vind@!
 
-**⭐ Sou Cecília Silva, tenho 19 anos.**
+**⭐ Sou Cecília Silva de Souza, tenho 19 anos;**
+
+**💼 Analista de Dados Júnior na [Indico](https://www.linkedin.com/company/indicobr);**
 
 **🚀 Estudante das Ciências dos Dados e Computação.**
 
