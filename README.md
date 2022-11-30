@@ -6,15 +6,10 @@
 </div>
 
 
+
+
 **⭐ I'm Cecília Silva de Souza, I'm 19 years old;**
 
 **💼 Data Analyst and BI at [Indico](https://www.linkedin.com/company/indicobr);**
 
 **🚀 Student of Data and Computing Sciences.**
-
-
-## Portifolio
-
-<a href="https://github.com/ceciliasilvads/portifolio">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ceciliasilvads&repo=portifolio&theme=dark" />
-</a>
