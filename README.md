@@ -8,7 +8,7 @@
 
 
 
-**⭐ I'm Cecília Silva de Souza and I'm 19 years old**
+**⭐ I'm Cecília Souza and I'm 19 years old**
 
 **💼 Data Analyst (Business Intelligence) at [Indico](https://www.linkedin.com/company/indicobr)**
 
