@@ -1,4 +1,4 @@
-**💼 Analista de Business Intelligence (BI) na [Indico](https://www.linkedin.com/company/indicobr)**
+**💼 Analista de Dados & BI na [Indico](https://www.linkedin.com/company/indicobr)**
 
 **🎓 Graduanda em Engenharia de Software**
 
