@@ -1,8 +1,5 @@
-**💼 Analista de Dados & BI na [Indico](https://www.linkedin.com/company/indicobr)**
-
-**🎓 Graduanda em Engenharia de Software**
-
-**👩🏿‍💻 Estudante de Ciências de Dados e Tecnologia**
+- **Analista de Dados & BI na [Indico](https://www.linkedin.com/company/indicobr)**
+- **Graduanda em Engenharia de Software**
 
 <div align="center">
   <a href="https://github.com/ceciliasilvads">
