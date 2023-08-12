@@ -1,5 +1,5 @@
-- **Analista de Dados & BI na [Indico](https://www.linkedin.com/company/indicobr)**
-- **Graduanda em Engenharia de Software**
+- **Data Analyst at [Indico](https://www.linkedin.com/company/indicobr)**
+- **Undergraduate in Software Engineering**
 
 <div align="center">
   <a href="https://github.com/ceciliasilvads">
