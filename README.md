@@ -3,11 +3,11 @@
 
 <div align="center">
   <a href="https://github.com/ceciliasilvads">
-    <img height="125vw" src="https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=dracula&include_commits=true"/>
+    <img height="125vw" src="https://github-readme-stats.vercel.app/api?username=ceciliasilvads&show_icons=true&theme=nightowl&include_commits=true"/>
   </a>
 
   <a href="https://github.com/ceciliasilvads">
-    <img height="125vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="125vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasilvads&layout=compact&langs_count=8&theme=nightowl"/>
   </a>
 </div>
 
