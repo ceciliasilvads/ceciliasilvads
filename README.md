@@ -1,1 +1,1 @@
-I'm a Data Analyst passionate about uncovering stories in data. My goal is to help solve business problems, translating data into viable analyzes for decision-making, always thinking about ways to automate and bring continuous improvements to processes and products.
+💡 I'm a Data Analyst passionate about uncovering stories in data. My goal is to help solve business problems, translating data into viable analyzes for decision-making, always thinking about ways to automate and bring continuous improvements to processes and products.
