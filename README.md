@@ -5,7 +5,6 @@ I'm a Data Analyst passionate about uncovering stories in data. My goal is to he
 - 🌱 I'm currently learning statistics, business and software engineering
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ceciliasilvads/)
 - 💬 Ask me about Data Analytics and Business Intelligence
-- ⚡ Fun fact: I have a tiny cat called Robin
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ceciliasilvads&theme=dracula" width="250">
