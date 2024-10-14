@@ -1,6 +1,5 @@
-I'm a Data Analyst passionate about uncovering stories in data. My goal is to help solve business problems, translating data into viable analyzes for decision-making, always thinking about ways to automate and bring continuous improvements to processes and products.
+👋 Hi, I’m Cecília! A Data Analyst passionate about uncovering stories in data. My goal is to help solve business problems, translating data into viable analyzes for decision-making, always thinking about ways to automate and bring continuous improvements to processes and products.
 
-- 👋 Hi, I’m Cecília
 - 💛 I’m currently working at Livance
 - 🌱 I'm currently learning statistics, business and software engineering
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ceciliasilvads/)
